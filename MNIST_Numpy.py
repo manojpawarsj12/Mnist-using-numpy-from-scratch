@@ -1,7 +1,6 @@
 from __future__ import print_function
 from IPython.display import clear_output
 # Import Dataset
-import keras
 import matplotlib.pyplot as plt
 import numpy as np
 from tqdm import trange
